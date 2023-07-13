@@ -26,6 +26,8 @@ struct ContentView: View {
                 }
                 
                 Text("Founder of the Algorithmic Justice League. Uses art and research to illuminate social implications of AI and to promote equitable and accountable technology.")
+                
+                Text("I heart MARVEL")
 
             }.padding().background(Rectangle() .foregroundColor(.white)).cornerRadius(15).shadow(radius: 15)
                 .padding()
